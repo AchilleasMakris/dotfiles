@@ -1,0 +1,63 @@
+{
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "settingsSync.ignoredExtensions": [
+        "ms-ceintl.vscode-language-pack-it",
+        "ms-ceintl.vscode-language-pack-ja"
+    ],
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "debug.disassemblyView.showSourceCode": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "[jsonc]": {
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "code-runner.executorMap": {
+        "eap": "pli10 ${file} && ${fileDirname}\\${fileBasenameNoExtension}.exe"
+    },
+    "files.associations": {
+        "*.eap": "pseudocode"
+    },
+    "markdown-preview-enhanced.enablePreviewZenMode": true,
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "pseudocode": false
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.sideBar.location": "right",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[pseudocode]": {
+        
+        "files.encoding": "windows1253",
+    },
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "makefile.configureOnOpen": false,
+    "explorer.confirmPasteNative": false
+}
