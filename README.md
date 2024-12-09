@@ -31,6 +31,3 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/achilleasmakris/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
-
-"# dotfiles" 
-"# dotfiles" 
